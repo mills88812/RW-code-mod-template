@@ -1,0 +1,9 @@
+D:\Rain world mods\foods++\src\bin\Debug\net48\PurpleFruit.dll
+D:\Rain world mods\foods++\src\bin\Debug\net48\PurpleFruit.pdb
+D:\Rain world mods\foods++\src\obj\Debug\net48\PurpleFruit.csproj.AssemblyReference.cache
+D:\Rain world mods\foods++\src\obj\Debug\net48\PurpleFruit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rain world mods\foods++\src\obj\Debug\net48\PurpleFruit.AssemblyInfoInputs.cache
+D:\Rain world mods\foods++\src\obj\Debug\net48\PurpleFruit.AssemblyInfo.cs
+D:\Rain world mods\foods++\src\obj\Debug\net48\PurpleFruit.csproj.CoreCompileInputs.cache
+D:\Rain world mods\foods++\src\obj\Debug\net48\PurpleFruit.dll
+D:\Rain world mods\foods++\src\obj\Debug\net48\PurpleFruit.pdb

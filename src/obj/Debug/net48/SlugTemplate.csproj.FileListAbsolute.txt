@@ -1,0 +1,9 @@
+D:\Rain world mods\foods++\src\bin\Debug\net48\SlugTemplate.dll
+D:\Rain world mods\foods++\src\bin\Debug\net48\SlugTemplate.pdb
+D:\Rain world mods\foods++\src\obj\Debug\net48\SlugTemplate.csproj.AssemblyReference.cache
+D:\Rain world mods\foods++\src\obj\Debug\net48\SlugTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rain world mods\foods++\src\obj\Debug\net48\SlugTemplate.AssemblyInfoInputs.cache
+D:\Rain world mods\foods++\src\obj\Debug\net48\SlugTemplate.AssemblyInfo.cs
+D:\Rain world mods\foods++\src\obj\Debug\net48\SlugTemplate.csproj.CoreCompileInputs.cache
+D:\Rain world mods\foods++\src\obj\Debug\net48\SlugTemplate.dll
+D:\Rain world mods\foods++\src\obj\Debug\net48\SlugTemplate.pdb
